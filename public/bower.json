@@ -1,0 +1,21 @@
+{
+  "name": "nameswap",
+  "version": "0.0.0",
+  "authors": [
+    "Mike Van Snellenberg <mike@wellpepper.com>"
+  ],
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.5",
+    "angular": "~1.4.7"
+  }
+}
